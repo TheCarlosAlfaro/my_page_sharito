@@ -1,0 +1,19 @@
+/* CSS selectors */
+/* TAG */
+h1 {
+  background-color: yellow;
+}
+/* CLASS */
+.my-bg-color {
+  background-color: blue;
+  color: white;
+  font-size: 32px;
+}
+/* ID */
+#my-only-bg-color {
+  background-color: green;
+}
+
+img {
+  width: 400px;
+}
